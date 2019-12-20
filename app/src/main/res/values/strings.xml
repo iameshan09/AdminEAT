@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AdminEAT</string>
+    <string name="tv_uername">Email</string>
+    <string name="tv_pwd">Password</string>
+    <string name="btn_login">Login</string>
+    <string name="gethelp">Get help with signing in</string>
+
+    <string name="resetpassword">Please enter your Email address to verify your account.</string>
+
+    <string name="cname">Item Name</string>
+    <string name="cprice">Price for 1Kg</string>
+    <string name="cdiscount">Discount for 1Kg</string>
+
+
+</resources>
